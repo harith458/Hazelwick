@@ -1,0 +1,4 @@
+Answer = input("Are we there yet?")
+while Answer == "no":
+    Answer = input("Are we there yet")
+print("zzzzzzzzzzzzz")
